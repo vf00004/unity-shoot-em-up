@@ -2,6 +2,8 @@
 
 A Unity-based 2D shoot ’em up focused on clean gameplay architecture, input handling, and enemy wave systems.
 
+![forGit](https://github.com/user-attachments/assets/3d89aaf8-d9f8-497b-8b5d-346bcd399636)
+
 ## Gameplay Mechanics
 * Horizontal player movement with screen-bounded constraints
 * Projectile-based combat with collision-driven damage
